@@ -8,6 +8,11 @@ media
 venv
 venv/
 /venv
+env/
+/env
+env
+Environments
+ENV
 
 # Backup files # 
 *.bak 
