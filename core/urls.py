@@ -1,3 +1,4 @@
+# this is Project level urls.py which contains urls for entire django projects.
 from django.contrib import admin
 from django.urls import path, include
 
