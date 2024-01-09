@@ -14,6 +14,8 @@ env
 Environments
 ENV
 
+# Troubleshoot venv/.venv/env/.env folder.
+
 # Backup files # 
 *.bak 
 
